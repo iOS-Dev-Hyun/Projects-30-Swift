@@ -11,3 +11,7 @@
 🔥Project 03 - Todo List
 
 ![2](https://github.com/iOS-Dev-Hyun/Projects-30-Swift/assets/142004247/3c0ead25-631f-4762-b740-2c4bd17cebae)
+
+🔥Project 04 - Play Animation
+
+![1](https://github.com/iOS-Dev-Hyun/Projects-30-Swift/assets/142004247/9f8ceddf-1ffc-470f-80e7-c4cec535fbe7)
