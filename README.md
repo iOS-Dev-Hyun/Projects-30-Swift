@@ -18,4 +18,4 @@
 
 🔥Project 05 - Pomodoro Timer
 
-![2](https://github.com/iOS-Dev-Hyun/Projects-30-Swift/assets/142004247/bf980f75-f02b-46fe-a1c9-2217217ab030)
+![3](https://github.com/iOS-Dev-Hyun/Projects-30-Swift/assets/142004247/258150e9-fc08-4401-b6b4-dac82f75acb2)
